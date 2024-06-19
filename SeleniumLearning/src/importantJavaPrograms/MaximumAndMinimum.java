@@ -1,7 +1,7 @@
 package importantJavaPrograms;
 
 public class MaximumAndMinimum {
-
+//fantastic and powerful code
 	int array[]={100,101,5,-10};
 
 
